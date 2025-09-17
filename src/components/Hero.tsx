@@ -8,10 +8,19 @@ const Hero = () => {
       <div className="container mx-auto max-w-7xl">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in">
-            <div className="flex items-center gap-2 mb-6">
+            <div className="flex items-center gap-2 mb-1">
               <Shield className="w-8 h-8 text-primary" />
               <span className="text-sm font-semibold text-primary tracking-wide uppercase">
                 NIST SP 800-88 Compliant
+              </span>
+              <span className="text-sm font-semibold text-primary tracking-wide uppercase">
+                IEEE 2883 
+              </span>
+            </div>
+            <div className="flex items-center gap-2 mb-6">
+              <Shield className="w-8 h-8 text-primary" />
+              <span className="text-sm font-semibold text-primary tracking-wide uppercase">
+                IEEE 2883 
               </span>
             </div>
             
