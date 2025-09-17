@@ -30,7 +30,7 @@ const Hero = () => {
             <div className="flex flex-col sm:flex-row gap-4 mb-8">
               <Button size="lg" className="bg-gradient-primary hover:opacity-90 shadow-glow">
                 <Download className="w-5 h-5 mr-2" />
-                Download SecureWipe Pro
+                Download SECWIPE
               </Button>
               <Button variant="outline" size="lg" className="hover-lift">
                 View Live Demo

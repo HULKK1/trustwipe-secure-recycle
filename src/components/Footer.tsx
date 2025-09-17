@@ -48,7 +48,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3 mb-6">
               <Shield className="w-8 h-8 text-primary" />
-              <span className="text-xl font-bold">SecureWipe Pro</span>
+              <span className="text-xl font-bold">SECWIPE</span>
             </div>
             <p className="text-muted-foreground mb-6 leading-relaxed">
               The industry-leading secure data wiping solution for trustworthy IT asset 
@@ -94,7 +94,7 @@ const Footer = () => {
         <div className="border-t border-border mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-sm text-muted-foreground">
-              © 2024 SecureWipe Pro. All rights reserved.
+              © 2024 SECWIPE. All rights reserved.
             </div>
             
             <div className="flex items-center gap-6 text-sm">
